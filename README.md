@@ -30,11 +30,10 @@ This project focuses on building a **machine learning-based web application** th
   * `pandas`
   * `NumPy`
   * `matplotlib`, `seaborn` (for EDA)
-  * `joblib` (for model saving)
 * **Framework**:
 
   * `Streamlit` (for building the interactive web app)
 * **Development Environment**:
 
-  * Jupyter Notebook / VS Code / Any preferred IDE
+  * Jupyter Notebook 
 
